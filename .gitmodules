@@ -1,0 +1,3 @@
+[submodule "twitter_monitor"]
+	path = twitter_monitor
+	url = git@github.com:hassanbenhzaine/twitter_account_posts_monitor.git
